@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="700" viewBox="0 0 1080 700" role="img" aria-labelledby="title">
+  <title id="title">API-Wireframe mit fünf Modulen</title>
+  <style>text{font-family:Arial,sans-serif;font-size:18px;fill:#212529}.box{fill:white;stroke:#adb5bd}.placeholder{fill:#f8f9fa;stroke:#ced4da}.button{fill:#fff;stroke:#adb5bd}</style>
+  <rect width="1080" height="700" fill="white"/>
+  <text x="30" y="45" font-weight="bold">API-Wireframe</text>
+  <rect x="30" y="75" width="490" height="260" rx="5" class="box"/><text x="50" y="108">Katzenbild</text><rect x="50" y="125" width="450" height="140" class="placeholder"/><rect x="50" y="282" width="450" height="35" rx="4" class="button"/><text x="232" y="306">Bild laden</text>
+  <rect x="540" y="75" width="245" height="260" rx="5" class="box"/><text x="560" y="108">Bitcoin</text><text x="560" y="155">USD</text><text x="560" y="184">—</text><text x="560" y="220">CHF</text><text x="560" y="249">—</text><rect x="560" y="282" width="205" height="35" rx="4" class="button"/><text x="615" y="306">Preis laden</text>
+  <rect x="805" y="75" width="245" height="260" rx="5" class="box"/><text x="825" y="108">Wetter</text><text x="825" y="155">Zürich</text><text x="825" y="205">— °C</text><rect x="825" y="282" width="205" height="35" rx="4" class="button"/><text x="873" y="306">Wetter laden</text>
+  <rect x="30" y="355" width="490" height="315" rx="5" class="box"/><text x="50" y="390">Ladestationen in Zürich</text><text x="50" y="430">1. —</text><text x="50" y="468">2. —</text><text x="50" y="506">3. —</text><text x="50" y="544">4. —</text><text x="50" y="582">5. —</text><rect x="50" y="615" width="450" height="35" rx="4" class="button"/><text x="208" y="639">Stationen laden</text>
+  <rect x="540" y="355" width="510" height="315" rx="5" class="box"/><text x="560" y="390">Karte</text><rect x="560" y="410" width="470" height="185" class="placeholder"/><text x="772" y="510">Zürich</text><rect x="560" y="615" width="470" height="35" rx="4" class="button"/><text x="750" y="639">Karte laden</text>
+</svg>
